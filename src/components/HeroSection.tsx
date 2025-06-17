@@ -40,7 +40,7 @@ const HeroSection: React.FC = () => {
               Me contacter
             </a>
             <a
-              href="/images/CV_2025-06-17_Andre Keith_Mulamba Tshishika (4).pdf"
+              href="/images/keithosdelatech.pdf"
               download
               className="flex items-center gap-2 bg-gray-700 hover:bg-gray-600 text-white py-3 px-6 rounded-lg transition-all duration-200 font-medium hover:scale-105"
             >
